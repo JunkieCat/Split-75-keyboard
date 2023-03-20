@@ -11,6 +11,9 @@ Working on a 75% split staggered keyboard with left macros like the Quenfrency f
 - cool keycaps B-)
 - Stanilizers
 - plate
-- case
 - foam
 - screws
+
+### 3D printed parts
+- [EC11/ adaptater to MX switches plate](https://www.thingiverse.com/thing:3770166)
+- case (?)
