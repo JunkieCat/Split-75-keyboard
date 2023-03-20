@@ -3,7 +3,7 @@ Working on a 75% split staggered keyboard with left macros like the Quenfrency f
 
 ## Parts
 - Micro controller usb-C
-- Two OLED screens 
+- Two OLED screens (128x64 or 128x32) using SSD1306 or SH1106 driver ICs
 - Copper Wire enameled
 - 100 pieces diodes 1N4148
 - Mechanical Switches (Akko CS Vintage White)
